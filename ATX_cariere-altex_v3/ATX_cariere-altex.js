@@ -2,8 +2,7 @@ var CariereJSON = [{
   NumeDivizie: "Magazine",
   NumePozitii: [{
     NumePozitie: "Casier",
-    Orase: ["Arad","Bacau","Baia Mare","Bucuresti","Calarasi","Cluj-Napoca","Focsani","Oradea","Pascani","Satu Mare","Sibiu","Slobozia","Suceava","Timisoara"
-    ],
+    Orase: ["Arad", "Bacau", "Baia Mare", "Bucuresti", "Calarasi", "Cluj-Napoca", "Focsani", "Oradea", "Pascani", "Satu Mare", "Sibiu", "Slobozia", "Suceava", "Timisoara"],
     Email: {
       MailTo: "recrutare@altex.ro",
       Subject: "[CASIER]",
@@ -25,10 +24,8 @@ var CariereJSON = [{
     }
   }, {
     NumePozitie: "Consultant Vanzari",
-    Orase: ["Alba Iulia", "Arad", "Bacau", "Baia Mare", "Brasov", "Bucuresti", "Calarasi", "Cluj-Napoca",
-      "Constanta", "Dej", "Deva", "Focsani", "Hunedoara", "Oradea", "Pascani", "Ploiesti", "Roman",
-      "Satu Mare", "Severin", "Sibiu", "Sighetu Marmatiei", "Slobozia", "Suceava", "Targoviste", "Timisoara"
-    ],
+    Orase: ["Alba Iulia", "Arad", "Bacau", "Baia Mare", "Brasov", "Bucuresti", "Calarasi", "Cluj-Napoca", "Constanta", "Craiova", "Dej", "Deva", "Focsani", "Hunedoara",
+     "Oradea", "Pascani", "Ploiesti", "Roman", "Satu Mare", "Severin", "Sibiu", "Sighetu Marmatiei", "Slobozia", "Suceava", "Targoviste", "Timisoara"],
     Email: {
       MailTo: "recrutare@altex.ro",
       Subject: "[CONSULTANT VANZARI]",
